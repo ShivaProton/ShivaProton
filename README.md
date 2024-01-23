@@ -15,6 +15,7 @@ Predicting the price of Brent oil Using Linear Regression - Associated with the 
 •	Developed a predictive model for Brent oil prices, using linear regression, successfully visualizing Brent oil price change over the last 20 years, and assessed the accuracy of the model.
 •	Implemented an advanced time series forecasting using LSTM neural networks.
 •	This project underscores the ability to leverage diverse tools and methodologies for effective market analysis and prediction, enhancing decision-making capabilities in the face of volatile external influences.
+
 British Airways Data Science Job Simulation – Virtual Internship with Forage (May 2023 - August 2023) Skills & Tools: Data Manipulation, Data Visualization, Machine Learning, Microsoft PowerPoint, Web Scraping, Python (Programming Language)
 •	Successfully conducted a comprehensive simulation, emphasizing the pivotal role of data science in contributing to the success of British Airways.
 •	Applied advanced techniques to scrape and analyze customer review data, unveiling significant insights critical to enhancing customer experiences and satisfaction.
