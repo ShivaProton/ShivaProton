@@ -1,24 +1,57 @@
-<h1 align="center">Hi 👋, I'm Shiva Singh</h1>
-<h3 align="center">Graduate Data Analyst</h3>
+# Shiva Singh - Recent Graduate Data Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaproton&label=Profile%20views&color=0e75b6&style=flat" alt="shivaproton" /> </p>
+### Description
+Hello there! I'm Shiva Singh, a recent graduate with a passion for data analysis. This repository showcases my skills and projects as a data analyst. Feel free to explore the projects and dive into the world of data!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaproton" alt="shivaproton" /></a> </p>
+### Projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShivaProton/ShivaProton](https://github.com/ShivaProton/ShivaProton)
+#### [Project 1: Analysing the Impact of Influencers Using Sentiment Analysis ]
+- Description: In the project "Social Media Influencers Impact Analysis on YouTube," I spearheaded extensive research to understand the profound influence of social media influencers on the YouTube platform. This initiative delves into the dynamic world of online content creators, focusing on their impact and the sentiments of their followers.
 
-- 📫 How to reach me **shiva.singh1@protonmail.com**
+Key Contributions:
+In-Depth Research:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shiva-singh10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shiva-singh10" height="30" width="40" /></a>
-</p>
+Conducted thorough and comprehensive research on the influence of social media influencers, with a particular focus on YouTube.
+Explored various aspects, including follower engagement, content types, and trends within the influencer landscape.
+Sentiment Analysis Models:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Leveraged advanced analytical techniques by applying three distinct sentiment analysis models: Vader Lexicon, Text Blob, and BERT (Bidirectional Encoder Representations from Transformers).
+Analyzed follower sentiments to uncover nuanced insights into the emotional responses elicited by influencer content.
+Insightful Findings:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaproton&show_icons=true&locale=en&layout=compact" alt="shivaproton" /></p>
+Produced valuable and actionable insights based on the sentiment analysis results.
+Demonstrated proficiency in extracting meaningful patterns from the data, providing a nuanced understanding of how influencers impact their audience emotionally.
+Purposeful Data Analysis:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivaproton&show_icons=true&locale=en" alt="shivaproton" /></p>
+Emphasized achievements in employing purposeful data analysis techniques to derive relevant conclusions.
+Showcased a methodical and strategic approach to extracting insights from complex datasets, underlining the importance of data-driven decision-making.
+Achievements:
+Uncovered hidden patterns in follower sentiments through the application of multiple sentiment analysis models.
+Provided actionable insights into the ways social media influencers shape the emotional landscape of their audience on YouTube.
+Demonstrated expertise in advanced analytical techniques, showcasing the ability to extract meaningful information from diverse datasets.
+This project not only highlights my research skills but also showcases my proficiency in sentiment analysis and delivering impactful insights. It stands as a testament to my dedication to understanding the digital landscape and utilizing data analysis to derive actionable conclusions.
+- Link: [Project 1 Link]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaproton&" alt="shivaproton" /></p>
+#### [Project 2: Project Name]
+- Description: Brief description of the project, its goals, and the technologies used.
+- Link: [Project 2 Link]
+
+### Skills
+- Data Analysis
+- Data Visualization
+- Statistical Modeling
+- SQL
+- Python
+- [Add more skills as needed]
+
+### Education
+- [University of Westminster], [MSc Data Science and Analytics], [2022-2023]
+
+### Connect with Me
+- LinkedIn: [www.linkedin.com/in/shiva-singh10]
+
+### Contact
+Feel free to reach out to me at [shiva.singh1@protonmail.com].
+
+
+
