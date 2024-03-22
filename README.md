@@ -41,7 +41,7 @@ Code Link: [https://github.com/ShivaProton/ShivaProton/blob/main/BA_Internship1.
 ---
 
 ### [4. Project Title: Accenture North America Data Analytics and Visualization](#)
-![Project 4 Image](https://example.com/project4_image.jpg)
+
 
 Led a simulation at Accenture, serving as a strategic advisor for a hypothetical social media client as a Data Analyst. Demonstrated leadership and expertise in data-driven decision-making. Conducted comprehensive data cleaning, modeling, and analysis on seven datasets, extracting valuable insights into content trends. This process significantly contributed to informed strategic decisions for the client. Demonstrated effective communication skills by preparing a detailed PowerPoint deck and a compelling video presentation, ensuring seamless delivery of key insights to both the client and internal stakeholders. This project exemplifies the application of data analysis for strategic decision-making and effective communication in a corporate setting.
 
